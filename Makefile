@@ -1,4 +1,4 @@
-OBJ = main.o lib1.o 
+OBJ = main.o 
 CFLAGS = -Wall -std=c99
 
 all: main
